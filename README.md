@@ -28,6 +28,6 @@ npx create-react-app my-app
 
 ## Semantic versioning
 
-^2.29.3  ->   2.x.x   (upgrades to latest minor and patch version while downloading)
-~2.29.3  ->   2.29.x  (upgrades to latest patch version while downloading)
-2.29.3   ->   2.29.3  (no changes in the version while downloading)
+- ^2.29.3  ->   2.x.x   (upgrades to latest minor and patch version while downloading)
+- ~2.29.3  ->   2.29.x  (upgrades to latest patch version while downloading)
+- 2.29.3   ->   2.29.3  (no changes in the version while downloading)
