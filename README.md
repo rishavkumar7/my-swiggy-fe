@@ -1,6 +1,6 @@
 # my-swiggy-fe
 
-##Some useful node/npm/nvm/npx commands
+## Some useful node/npm/nvm/npx commands
 ```
 node -v
 
@@ -26,7 +26,7 @@ nvm use 18.2.0
 npx create-react-app my-app
 ```
 
-##Semantic versioning
+## Semantic versioning
 
 ^2.29.3  ->   2.x.x   (upgrades to latest minor and patch version while downloading)
 ~2.29.3  ->   2.29.x  (upgrades to latest patch version while downloading)
