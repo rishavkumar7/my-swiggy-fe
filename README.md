@@ -1,5 +1,14 @@
 # my-swiggy-fe
 
+- Transitive dependency - All the dependencies, dependencies of dependencies lies inside the node_modules
+- Transpiled - The JSX code is converted to the javascript code by the Parcel (Babel)
+- Functional Component/ Class Component
+- Javascript inside JSX using '{}'
+```
+<ComponentName />, <ComponentName></ComponentName>, {ComponentName()}
+```
+
+
 ## Some useful node/npm/nvm/npx commands
 ```
 node -v

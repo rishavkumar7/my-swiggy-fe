@@ -1,0 +1,32 @@
+{
+  "name": "my-swiggy-fe",
+  "version": "1.0.0",
+  "description": "This is a project made while learning namaste-react",
+  "scripts": {
+    "cleanup": "rm -rf .parcel-cache dist",
+    "start": "npm run cleanup && parcel index.html",
+    "build": "npm run cleanup && parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavkumar7/my-swiggy-fe.git"
+  },
+  "author": "Rishav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishavkumar7/my-swiggy-fe/issues"
+  },
+  "homepage": "https://github.com/rishavkumar7/my-swiggy-fe#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ] 
+}
