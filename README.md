@@ -9,7 +9,25 @@
 <ComponentName></ComponentName> 
 {ComponentName()}
 ```
+## App Layout is shown below :
 
+- Header
+    - Logo
+    - Nav Items
+        - Home
+        - About
+        - Cart
+- Body
+    - Search
+    - Container
+        - Container Items
+            - Image
+            - Name
+            - Cost
+            - Rating
+- Footer
+    - Copyright
+    - Links
 
 ## Some useful node/npm/nvm/npx commands
 ```
