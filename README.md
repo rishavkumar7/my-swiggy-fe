@@ -5,7 +5,9 @@
 - Functional Component/ Class Component
 - Javascript inside JSX using '{}'
 ```
-<ComponentName />, <ComponentName></ComponentName>, {ComponentName()}
+<ComponentName /> 
+<ComponentName></ComponentName> 
+{ComponentName()}
 ```
 
 
